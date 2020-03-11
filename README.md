@@ -47,13 +47,13 @@ These are all the generated CSS classes:
 .content-y-evenly		align-content: space-evenly;
 .content-y-between		align-content: space-between;
 .self-x-start			justify-self: start;
-.self-x-end				justify-self: end;
+.self-x-end			justify-self: end;
 .self-x-left			justify-self: left;
 .self-x-right			justify-self: right;
 .self-x-center			justify-self: center;
 .self-x-stretch			justify-self: stretch;
 .self-y-start			align-self: start;
-.self-y-end				align-self: end;
+.self-y-end			align-self: end;
 .self-y-center			align-self: center;
 .self-y-baseline		align-self: baseline;
 .self-y-stretch			align-self: stretch;
