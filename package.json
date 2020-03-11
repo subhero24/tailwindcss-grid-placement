@@ -1,6 +1,6 @@
 {
 	"name": "tailwindcss-grid-placement",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A tailwindCSS plugin for defining grid placement utilities",
 	"main": "index.js",
 	"scripts": {

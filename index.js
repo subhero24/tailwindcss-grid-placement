@@ -81,14 +81,14 @@ function gridPlacementPlugin({ addUtilities }) {
 	let itemsXutilities = {};
 	for (let [utility, value] of Object.entries(itemsX)) {
 		itemsXutilities[`.items-x-${utility}`] = {
-			alignContent: value
+			justifyItems: value
 		};
 	}
 
 	let itemsYutilities = {};
 	for (let [utility, value] of Object.entries(itemsY)) {
 		itemsYutilities[`.items-y-${utility}`] = {
-			alignContent: value
+			alignItems: value
 		};
 	}
 
