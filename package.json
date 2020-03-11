@@ -1,0 +1,14 @@
+{
+	"name": "tailwindcss-grid-placement",
+	"version": "0.0.1",
+	"description": "A tailwindCSS plugin for defining grid placement utilities",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"tailwindcss": "^1.2.0"
+	}
+}
